@@ -60,7 +60,7 @@ a.theme-link {
 	background: white;
 	border: 2px solid $theme-color-primary;
 	color: $theme-color-primary;
-	&:hover {
+	&:hover, , &:active, &:focus, &:not(:disabled):not(.disabled):active {
 		background: $theme-color-primary;
 		border: 2px solid $theme-color-primary;
 		color: white;
