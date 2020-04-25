@@ -26,7 +26,7 @@ If you'd like to **use the template without the footer attribution link**, you c
 
 
 ## Latest Version
-**v1.0** - 25 April 2020
+**v1.1** - 25 April 2020
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/startup/devbook-free-bootstrap-4-book-ebook-landing-page-template-for-developers/?target=changelog)
 
