@@ -2,7 +2,7 @@
 
 ## Theme Details & Demo
 
-**Demo:** https://themes.3rdwavemedia.com/demo/bs5/devbook/
+**Demo:** https://themes.3rdwavemedia.com/bootstrap-templates/startup/devbook-free-bootstrap-5-book-ebook-landing-page-template-for-developers/
 
 DevBook is a **free Bootstrap book and ebook landing page template** made for software developers.
 
