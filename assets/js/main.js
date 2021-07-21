@@ -1,17 +1,24 @@
+"use strict";
 
-$(document).ready(function() {
+/* ===== Smooth scrolling ====== */
+/*  Note: You need to include smoothscroll.min.js (smooth scroll behavior polyfill) on the page to cover some browsers */
+/* Ref: https://github.com/iamdustan/smoothscroll */
+
+const pageNavLinks = document.querySelectorAll('.scrollto');
+
+pageNavLinks.forEach((pageNavLink) => {
 	
-    
-    /* ===== Smooth scrolling ====== */
-	$('a.scrollto').on('click', function(e){
-        //store hash
-        var target = this.hash;    
-        e.preventDefault();
-		$('body').scrollTo(target, 800, {offset: 0, 'axis':'y'});
+	pageNavLink.addEventListener('click', (e) => {
+		
+		e.preventDefault();
+		
+		var target = pageNavLink.getAttribute("href").replace('#', '');
+		
+		//console.log(target);
+		
+        document.getElementById(target).scrollIntoView({ behavior: 'smooth' });
 
-	});
+		
+    });
 	
-    
-    
-
 });

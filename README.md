@@ -1,8 +1,8 @@
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devbook-free-bootstrap-4-book-ebook-landing-page-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/12/Bootstrap-Book-Landing-Page-Template-DevBook-Pormo.jpg" alt="DevBook - Bootstrap Book and eBook Landing Page Template For Developers" /></a>
+<a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/devbook-free-bootstrap-5-book-ebook-landing-page-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/12/Bootstrap-Book-Landing-Page-Template-DevBook-Pormo.jpg" alt="DevBook - Bootstrap Book and eBook Landing Page Template For Developers" /></a>
 
 ## Theme Details & Demo
 
-**Demo:** https://themes.3rdwavemedia.com/demo/devbook/
+**Demo:** https://themes.3rdwavemedia.com/demo/bs5/devbook/
 
 DevBook is a **free Bootstrap book and ebook landing page template** made for software developers.
 
@@ -10,7 +10,7 @@ DevBook is a **free Bootstrap book and ebook landing page template** made for so
 
 This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE as long as you **keep the footer attribution link**. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
 
-If you'd like to **use the template without the footer attribution link**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/startup/devbook-free-bootstrap-4-book-ebook-landing-page-template-for-developers/)
+If you'd like to **use the template without the footer attribution link**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/startup/devbook-free-bootstrap-5-book-ebook-landing-page-template-for-developers/)
 
 #### Follow Xiaoying
 
@@ -26,16 +26,16 @@ If you'd like to **use the template without the footer attribution link**, you c
 
 
 ## Latest Version
-**v1.2** - 10 Oct 2020
+**Bootstrap 5 v1.0** - 2021-07-21
 
-[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/startup/devbook-free-bootstrap-4-book-ebook-landing-page-template-for-developers/?target=changelog)
+[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/startup/devbook-free-bootstrap-5-book-ebook-landing-page-template-for-developers/?target=changelog)
 
 
 ## Features
 
 -  Fully Responsive
 -  HTML5 + CSS3
--  Built on Bootstrap 4
+-  Built on Bootstrap 5
 -  **SCSS** source files included
 -  1500+ FontAwesome 5 icons
 -  Compatible with all modern browsers
