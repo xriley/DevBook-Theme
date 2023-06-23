@@ -26,7 +26,7 @@ If you'd like to **use the template without the footer attribution link**, you c
 
 
 ## Latest Version
-**Bootstrap 5 v2.0** - 2022-06-09
+**Bootstrap 5 v3.0** - 2022-06-23
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/startup/devbook-free-bootstrap-5-book-ebook-landing-page-template-for-developers/?target=changelog)
 
@@ -37,7 +37,7 @@ If you'd like to **use the template without the footer attribution link**, you c
 -  HTML5 + CSS3
 -  Built on Bootstrap 5
 -  **SCSS** source files included
--  FontAwesome 5 icons
+-  FontAwesome icons
 -  Compatible with all modern browsers
 
 ## Credits
